@@ -1,0 +1,55 @@
+DAY 1 : LINUX BASIC COMMANDS: sivar@SIVA:~/zana/GitDemo$ history
+    1  pwd
+    2  ls
+    3  cd ..
+    4  ls
+    5  cd home/sivar/
+    6  ls
+    7  mkdir siva
+    8  ls
+    9  ls -l
+   10  ls -a
+   11  ls -s
+   12  rmdir siva
+   13  ls
+   14  mkdir siva
+   15  cd mkdir
+   16  cd siva
+   17  touch firstFile.txt
+   18  cd siva
+   19  ls
+   20  vim new.txt
+   21  sivar root
+   22  historuy
+   23  history
+   24  history
+   25  vim new.txt
+   26  cat firstFile.txt
+   27  cd home/siva
+   28  cd siva
+   29  cat firstFile.txt
+   30  ls
+   31  cd ..
+   32  ls
+   33  mkdir zana
+   34  cp siva/new.txt zana/
+   35  ls
+   36  cd siva
+   37  cp firstFile.txt zana/firstFile.txt
+   38  cd ..
+   39  cp siva/firstFile.txt zana/
+   40  ls zana/
+   41  ls
+   42  pwd
+   43  mv siva/firstFile.txt zana/
+   44  cd siva
+   45  ls
+   46  pwd
+   47  cd ..
+   48  cd zana
+   49  ls
+   50  git clone https://github.com/Siva-Ranjani2004/GitDemo.git
+   51  cd GitDemo
+   52  git status
+   53  git pull
+   54  history
